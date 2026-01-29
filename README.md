@@ -2,8 +2,3 @@
 
 This is my first GitHub repository.
 I am learning GitHub from scratch.
-hi
-This
-Is
-Rohit
-Hello
